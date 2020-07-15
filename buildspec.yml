@@ -2,7 +2,7 @@ version: 0.2
 
 env:
   variables:
-    _PROJECT_NAME: "teamb-user"
+    _PROJECT_NAME: "admin05-user"
 
 phases:
   install:
